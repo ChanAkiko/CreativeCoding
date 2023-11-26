@@ -7,7 +7,7 @@ void setup() {
   size(640, 640);
   noLoop();
   strokeWeight(6);  
-  // 配色风格：Christmas
+  // 配色风格: Christmas
   colors = new int[] {color(248, 190, 17), color(194, 17, 17), color(23, 130, 59), color(49, 49, 115)};
   // 初始化线条位置列表
   verticalLinesList = null;
